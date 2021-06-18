@@ -1,2 +1,2 @@
 # InstagramBots
-Instagram bots made with python for screening process of internship
+Instagram bots that messages a user when he follows our account. It can be used in a instagram businesses.
